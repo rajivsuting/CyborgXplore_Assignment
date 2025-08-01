@@ -1,0 +1,623 @@
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":13808464,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":13808464,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"malware-scanner-api","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1096:11)","timestamp":"2025-08-01 00:05:58"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14032956,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14032956,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"malware-scanner-api","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1096:11)","timestamp":"2025-08-01 00:09:43"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14049562,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14049562,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"malware-scanner-api","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1096:11)","timestamp":"2025-08-01 00:09:59"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14076359,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14076359,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"malware-scanner-api","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1096:11)","timestamp":"2025-08-01 00:10:26"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14099517,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":14099517,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"malware-scanner-api","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\connection.js:1096:11)","timestamp":"2025-08-01 00:10:49"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 13:10:44"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 13:10:44"}
+{"level":"error","message":"Failed to connect to RabbitMQ: Handshake terminated by server: 403 (ACCESS-REFUSED) with message \"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.\"","service":"malware-scanner-api","stack":"Error: Handshake terminated by server: 403 (ACCESS-REFUSED) with message \"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.\"\n    at afterStartOk (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:169:16)\n    at C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:104:11\n    at Socket.recv (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:453:9)\n    at Object.onceWrapper (node:events:632:28)\n    at Socket.emit (node:events:518:28)\n    at emitReadable_ (node:internal/streams/readable:834:12)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","timestamp":"2025-08-01 13:10:45"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 13:17:34"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 13:17:34"}
+{"level":"error","message":"Failed to connect to RabbitMQ: Handshake terminated by server: 403 (ACCESS-REFUSED) with message \"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.\"","service":"malware-scanner-api","stack":"Error: Handshake terminated by server: 403 (ACCESS-REFUSED) with message \"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.\"\n    at afterStartOk (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:169:16)\n    at C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:104:11\n    at Socket.recv (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:453:9)\n    at Object.onceWrapper (node:events:632:28)\n    at Socket.emit (node:events:518:28)\n    at emitReadable_ (node:internal/streams/readable:834:12)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","timestamp":"2025-08-01 13:17:34"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 13:31:24"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 13:31:24"}
+{"level":"error","message":"Failed to connect to RabbitMQ: Handshake terminated by server: 403 (ACCESS-REFUSED) with message \"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.\"","service":"malware-scanner-api","stack":"Error: Handshake terminated by server: 403 (ACCESS-REFUSED) with message \"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.\"\n    at afterStartOk (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:169:16)\n    at C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:104:11\n    at Socket.recv (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\amqplib\\lib\\connection.js:453:9)\n    at Object.onceWrapper (node:events:632:28)\n    at Socket.emit (node:events:518:28)\n    at emitReadable_ (node:internal/streams/readable:834:12)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","timestamp":"2025-08-01 13:31:24"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:14"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:14"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:15"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:15"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:15"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:31"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:31"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:31"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:31"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:31"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:47"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:47"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:47"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:47"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 13:32:47"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 13:39:44"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 13:39:44"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 13:39:44"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 13:39:44"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 13:39:44"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:52:19","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:52:19","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:54:21","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:54:22","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:54:22","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:16","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:18","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:18","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:21","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:21","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:27","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:28","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:32","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:32","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:35","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:35","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:40","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:40","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:43","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:43","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:46","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:55:46","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:21","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:21","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:23","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:23","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:25","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:26","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 13:57:26","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"warn","message":"MongoDB disconnected","service":"malware-scanner-api","timestamp":"2025-08-01 15:56:35"}
+{"level":"info","message":"MongoDB reconnected","service":"malware-scanner-api","timestamp":"2025-08-01 15:56:58"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"malware-scanner-api","timestamp":"2025-08-01 15:58:03","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4768"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"malware-scanner-api","timestamp":"2025-08-01 15:59:12"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 15:59:47"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 15:59:47"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 15:59:47"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 15:59:47"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 15:59:47"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:00:16","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:00:16","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"malware-scanner-api","timestamp":"2025-08-01 16:00:28","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /favicon.ico","service":"malware-scanner-api","timestamp":"2025-08-01 16:00:29","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 16:07:23"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 16:07:23"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 16:07:23"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 16:07:23"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 16:07:23"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:07:26","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:07:27","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"malware-scanner-api","timestamp":"2025-08-01 16:09:26","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:10:24","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4768"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:11:09","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:11:10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:11:18","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:11:18","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:11:38","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:11:38","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:12:01","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:12:02","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:12:06","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:12:06","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:12:51","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:12:51","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:29","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:29","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:43","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:43","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:44","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:45","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:50","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:13:50","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:15:32","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4768"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:16:23","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:17:33","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:17:33","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:17:51","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:17:51","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:05","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:05","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:16","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:16","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"info","message":"File uploaded successfully: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:25"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:25"}
+{"level":"info","message":"Scan initiated for file: 688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:25"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:44","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:44","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:49","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:54","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:18:59","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:04","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:09","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:14","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:19","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:29","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:37"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:37"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:37"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:37"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:37"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:39","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:42"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:42"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:43"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:43"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:43"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:43","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:43","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:47","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:47","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:51","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:52","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:54","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:54","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:19:59","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:04","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:09","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:14","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:19","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:29","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:34","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:39","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:44","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:49","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:54","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:20:59","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:04","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:09","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:14","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:19","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:29","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/test","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:32","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4768"}
+{"kind":"ObjectId","level":"error","message":"Error getting file by ID: Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"File\"","path":"_id","reason":{},"service":"malware-scanner-api","stack":"CastError: Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"File\"\n    at SchemaObjectId.cast (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n    at SchemaObjectId.SchemaType.applySetters (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n    at SchemaObjectId.SchemaType.castForQuery (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\schemaType.js:1680:17)\n    at cast (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at model.Query.Query.cast (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\query.js:5055:12)\n    at model.Query.Query._castConditions (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\query.js:2351:10)\n    at model.Query._findOne (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\query.js:2674:8)\n    at model.Query.exec (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\node_modules\\mongoose\\lib\\query.js:4604:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)","stringValue":"\"test\"","timestamp":"2025-08-01 16:21:32","value":"test","valueType":"string"}
+{"isOperational":true,"level":"error","message":"Error getting scan status: Failed to get file","service":"malware-scanner-api","stack":"Error: Failed to get file\n    at createError (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\src\\middleware\\errorHandler.ts:92:17)\n    at Function.<anonymous> (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\src\\services\\fileService.ts:108:24)\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\src\\services\\fileService.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":500,"timestamp":"2025-08-01 16:21:32"}
+{"error":"Failed to get scan status","ip":"::1","level":"error","message":"Error occurred:","method":"GET","service":"malware-scanner-api","stack":"Error: Failed to get scan status\n    at createError (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\src\\middleware\\errorHandler.ts:92:17)\n    at Function.<anonymous> (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\src\\services\\scanService.ts:123:24)\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\HP\\Desktop\\CyborgXplore_Assignment\\server\\src\\services\\scanService.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-01 16:21:32","url":"/api/scans/status/test","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4768"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:34","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:39","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:44","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:49","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:54","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:58","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans","service":"malware-scanner-api","timestamp":"2025-08-01 16:21:58","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:04","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:09","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:14","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:19","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:24","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:29","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:42"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:42"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:43"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:43"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:43"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:43","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/scans/status/688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 16:22:46","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 16:47:16"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 16:47:16"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 16:47:16"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 16:47:16"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 16:47:16"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 16:49:17"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 16:49:17"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 16:49:17"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 16:49:17"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 16:49:17"}
+{"level":"info","message":"File uploaded successfully: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 16:50:00"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 16:50:00"}
+{"level":"info","message":"Scan initiated for file: 688ca2e02c33890f0bfd4a8c","service":"malware-scanner-api","timestamp":"2025-08-01 16:50:00"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 16:59:52"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 16:59:53"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 16:59:53"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 16:59:53"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 16:59:53"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:05"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:05"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:05"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:05"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:05"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:28"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:28"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:28"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:28"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:00:28"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:01:29"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:01:29"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:01:29"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:01:29"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:01:29"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Processing scan job for file: 688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Processing scan job for file: 688ca2e02c33890f0bfd4a8c","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"File status updated to scanning for ID: 688ca2e02c33890f0bfd4a8c","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"File status updated to scanning for ID: 688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:02"}
+{"level":"info","message":"Starting scan for file: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"confidence":74,"isMalicious":true,"level":"info","message":"Scan completed for CyberXplore Developer Challenge (3).pdf:","scanTime":29,"service":"malware-scanner-api","threats":2,"timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"File status updated to completed for ID: 688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"Scan completed for file: 688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"Scan job completed for file: 688c9b78c6c76c9292b5a232","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"Starting scan for file: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"confidence":71,"isMalicious":true,"level":"info","message":"Scan completed for CyberXplore Developer Challenge (3).pdf:","scanTime":17,"service":"malware-scanner-api","threats":2,"timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"File status updated to completed for ID: 688ca2e02c33890f0bfd4a8c","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"Scan completed for file: 688ca2e02c33890f0bfd4a8c","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"Scan job completed for file: 688ca2e02c33890f0bfd4a8c","service":"malware-scanner-api","timestamp":"2025-08-01 17:19:05"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:36"}
+{"level":"info","message":"File saved: 688caa0c9c7164cb4b07547f","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:36"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:36"}
+{"level":"info","message":"Scan job enqueued for file: 688caa0c9c7164cb4b07547f","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:36"}
+{"level":"info","message":"Processing scan job for file: 688caa0c9c7164cb4b07547f","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:37"}
+{"level":"info","message":"File status updated to scanning for ID: 688caa0c9c7164cb4b07547f","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:37"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:41"}
+{"confidence":68,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":82,"service":"malware-scanner-api","threats":2,"timestamp":"2025-08-01 17:20:41"}
+{"level":"info","message":"File status updated to completed for ID: 688caa0c9c7164cb4b07547f","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:41"}
+{"level":"info","message":"Scan completed for file: 688caa0c9c7164cb4b07547f","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:41"}
+{"level":"info","message":"Scan job completed for file: 688caa0c9c7164cb4b07547f","service":"malware-scanner-api","timestamp":"2025-08-01 17:20:41"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 17:21:26"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:14"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 17:23:49"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:07"}
+{"level":"info","message":"File saved: 688caadebe2d1ed55a98ee4d","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:07"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:07"}
+{"level":"info","message":"Scan job enqueued for file: 688caadebe2d1ed55a98ee4d","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:07"}
+{"level":"info","message":"Processing scan job for file: 688caadebe2d1ed55a98ee4d","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:07"}
+{"level":"info","message":"File status updated to scanning for ID: 688caadebe2d1ed55a98ee4d","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:07"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:10"}
+{"confidence":105,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":80,"service":"malware-scanner-api","threats":3,"timestamp":"2025-08-01 17:24:10"}
+{"level":"info","message":"File status updated to completed for ID: 688caadebe2d1ed55a98ee4d","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:10"}
+{"level":"info","message":"Scan completed for file: 688caadebe2d1ed55a98ee4d","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:10"}
+{"level":"info","message":"Scan job completed for file: 688caadebe2d1ed55a98ee4d","service":"malware-scanner-api","timestamp":"2025-08-01 17:24:10"}
+{"level":"info","message":"File uploaded successfully: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:09"}
+{"level":"info","message":"File saved: 688cab1dbe2d1ed55a98ee62","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:09"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:09"}
+{"level":"info","message":"Scan job enqueued for file: 688cab1dbe2d1ed55a98ee62","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:09"}
+{"level":"info","message":"Processing scan job for file: 688cab1dbe2d1ed55a98ee62","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:09"}
+{"level":"info","message":"File status updated to scanning for ID: 688cab1dbe2d1ed55a98ee62","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:09"}
+{"level":"info","message":"Starting scan for file: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:13"}
+{"confidence":35,"isMalicious":true,"level":"info","message":"Scan completed for f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf:","scanTime":33,"service":"malware-scanner-api","threats":2,"timestamp":"2025-08-01 17:25:13"}
+{"level":"info","message":"File status updated to completed for ID: 688cab1dbe2d1ed55a98ee62","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:13"}
+{"level":"info","message":"Scan completed for file: 688cab1dbe2d1ed55a98ee62","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:13"}
+{"level":"info","message":"Scan job completed for file: 688cab1dbe2d1ed55a98ee62","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:13"}
+{"level":"info","message":"File uploaded successfully: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:37"}
+{"level":"info","message":"File saved: 688cab39be2d1ed55a98ee77","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:37"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:37"}
+{"level":"info","message":"Scan job enqueued for file: 688cab39be2d1ed55a98ee77","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:37"}
+{"level":"info","message":"Processing scan job for file: 688cab39be2d1ed55a98ee77","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:37"}
+{"level":"info","message":"File status updated to scanning for ID: 688cab39be2d1ed55a98ee77","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:37"}
+{"level":"info","message":"Starting scan for file: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:41"}
+{"confidence":35,"isMalicious":true,"level":"info","message":"Scan completed for f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf:","scanTime":58,"service":"malware-scanner-api","threats":2,"timestamp":"2025-08-01 17:25:41"}
+{"level":"info","message":"File status updated to completed for ID: 688cab39be2d1ed55a98ee77","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:41"}
+{"level":"info","message":"Scan completed for file: 688cab39be2d1ed55a98ee77","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:41"}
+{"level":"info","message":"Scan job completed for file: 688cab39be2d1ed55a98ee77","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:41"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 17:25:54"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 17:28:22"}
+{"level":"info","message":"File uploaded successfully: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:11"}
+{"level":"info","message":"File saved: 688cac87f07540d1fcefcee7","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:11"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:11"}
+{"level":"info","message":"Scan job enqueued for file: 688cac87f07540d1fcefcee7","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:11"}
+{"level":"info","message":"Processing scan job for file: 688cac87f07540d1fcefcee7","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:11"}
+{"level":"info","message":"File status updated to scanning for ID: 688cac87f07540d1fcefcee7","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:11"}
+{"level":"info","message":"Starting scan for file: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:14"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf:","scanTime":12,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 17:31:14"}
+{"level":"info","message":"File status updated to completed for ID: 688cac87f07540d1fcefcee7","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:14"}
+{"level":"info","message":"Scan completed for file: 688cac87f07540d1fcefcee7","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:14"}
+{"level":"info","message":"Scan job completed for file: 688cac87f07540d1fcefcee7","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:14"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:35"}
+{"level":"info","message":"File uploaded successfully: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:38"}
+{"level":"info","message":"File saved: 688caca2c8e13dfb161b515a","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:38"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:38"}
+{"level":"info","message":"Scan job enqueued for file: 688caca2c8e13dfb161b515a","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:38"}
+{"level":"info","message":"Processing scan job for file: 688caca2c8e13dfb161b515a","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:38"}
+{"level":"info","message":"File status updated to scanning for ID: 688caca2c8e13dfb161b515a","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:39"}
+{"level":"info","message":"Starting scan for file: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:41"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for CyberXplore Developer Challenge (3).pdf:","scanTime":6,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 17:31:41"}
+{"level":"info","message":"File status updated to completed for ID: 688caca2c8e13dfb161b515a","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:41"}
+{"level":"info","message":"Scan completed for file: 688caca2c8e13dfb161b515a","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:41"}
+{"level":"info","message":"Scan job completed for file: 688caca2c8e13dfb161b515a","service":"malware-scanner-api","timestamp":"2025-08-01 17:31:41"}
+{"level":"info","message":"File uploaded successfully: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:31"}
+{"level":"info","message":"File saved: 688caef3c8e13dfb161b51c3","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:31"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:31"}
+{"level":"info","message":"Scan job enqueued for file: 688caef3c8e13dfb161b51c3","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:31"}
+{"level":"info","message":"Processing scan job for file: 688caef3c8e13dfb161b51c3","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:32"}
+{"level":"info","message":"File status updated to scanning for ID: 688caef3c8e13dfb161b51c3","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:32"}
+{"level":"info","message":"Starting scan for file: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:34"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf:","scanTime":247,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 17:41:34"}
+{"level":"info","message":"File status updated to completed for ID: 688caef3c8e13dfb161b51c3","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:34"}
+{"level":"info","message":"Scan completed for file: 688caef3c8e13dfb161b51c3","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:34"}
+{"level":"info","message":"Scan job completed for file: 688caef3c8e13dfb161b51c3","service":"malware-scanner-api","timestamp":"2025-08-01 17:41:35"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:28"}
+{"level":"info","message":"File saved: 688caf68c8e13dfb161b51f2","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:28"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:28"}
+{"level":"info","message":"Scan job enqueued for file: 688caf68c8e13dfb161b51f2","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:28"}
+{"level":"info","message":"Processing scan job for file: 688caf68c8e13dfb161b51f2","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:28"}
+{"level":"info","message":"File status updated to scanning for ID: 688caf68c8e13dfb161b51f2","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:28"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:31"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":28,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 17:43:31"}
+{"level":"info","message":"File status updated to completed for ID: 688caf68c8e13dfb161b51f2","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:31"}
+{"level":"info","message":"Scan completed for file: 688caf68c8e13dfb161b51f2","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:31"}
+{"level":"info","message":"Scan job completed for file: 688caf68c8e13dfb161b51f2","service":"malware-scanner-api","timestamp":"2025-08-01 17:43:31"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:03"}
+{"level":"info","message":"File saved: 688cb003c8e13dfb161b5213","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:03"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:03"}
+{"level":"info","message":"Scan job enqueued for file: 688cb003c8e13dfb161b5213","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:03"}
+{"level":"info","message":"Processing scan job for file: 688cb003c8e13dfb161b5213","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:03"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb003c8e13dfb161b5213","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:03"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:07"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":69,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 17:46:07"}
+{"level":"info","message":"File status updated to completed for ID: 688cb003c8e13dfb161b5213","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:07"}
+{"level":"info","message":"Scan completed for file: 688cb003c8e13dfb161b5213","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:07"}
+{"level":"info","message":"Scan job completed for file: 688cb003c8e13dfb161b5213","service":"malware-scanner-api","timestamp":"2025-08-01 17:46:07"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:51"}
+{"level":"info","message":"File saved: 688cb0e7c8e13dfb161b5254","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:51"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:51"}
+{"level":"info","message":"Scan job enqueued for file: 688cb0e7c8e13dfb161b5254","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:51"}
+{"level":"info","message":"Processing scan job for file: 688cb0e7c8e13dfb161b5254","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:51"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb0e7c8e13dfb161b5254","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:51"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:55"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":22,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 17:49:55"}
+{"level":"info","message":"File status updated to completed for ID: 688cb0e7c8e13dfb161b5254","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:55"}
+{"level":"info","message":"Scan completed for file: 688cb0e7c8e13dfb161b5254","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:55"}
+{"level":"info","message":"Scan job completed for file: 688cb0e7c8e13dfb161b5254","service":"malware-scanner-api","timestamp":"2025-08-01 17:49:55"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:41"}
+{"level":"info","message":"File saved: 688cb1cdc8e13dfb161b5269","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:41"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:41"}
+{"level":"info","message":"Scan job enqueued for file: 688cb1cdc8e13dfb161b5269","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:41"}
+{"level":"info","message":"Processing scan job for file: 688cb1cdc8e13dfb161b5269","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:41"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb1cdc8e13dfb161b5269","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:41"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:45"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":19,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 17:53:45"}
+{"level":"info","message":"File status updated to completed for ID: 688cb1cdc8e13dfb161b5269","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:45"}
+{"level":"info","message":"Scan completed for file: 688cb1cdc8e13dfb161b5269","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:45"}
+{"level":"info","message":"Scan job completed for file: 688cb1cdc8e13dfb161b5269","service":"malware-scanner-api","timestamp":"2025-08-01 17:53:45"}
+{"level":"info","message":"File uploaded successfully: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:11"}
+{"level":"info","message":"File saved: 688cb2dac8e13dfb161b52a8","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:11"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:11"}
+{"level":"info","message":"Scan job enqueued for file: 688cb2dac8e13dfb161b52a8","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:11"}
+{"level":"info","message":"Processing scan job for file: 688cb2dac8e13dfb161b52a8","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:11"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb2dac8e13dfb161b52a8","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:11"}
+{"level":"info","message":"Starting scan for file: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:15"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf:","scanTime":24,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 17:58:15"}
+{"level":"info","message":"File status updated to completed for ID: 688cb2dac8e13dfb161b52a8","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:15"}
+{"level":"info","message":"Scan completed for file: 688cb2dac8e13dfb161b52a8","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:15"}
+{"level":"info","message":"Scan job completed for file: 688cb2dac8e13dfb161b52a8","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:15"}
+{"level":"info","message":"File uploaded successfully: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:23"}
+{"level":"info","message":"File saved: 688cb2e7c8e13dfb161b52bb","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:23"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:23"}
+{"level":"info","message":"Scan job enqueued for file: 688cb2e7c8e13dfb161b52bb","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:23"}
+{"level":"info","message":"Processing scan job for file: 688cb2e7c8e13dfb161b52bb","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:23"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb2e7c8e13dfb161b52bb","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:23"}
+{"level":"info","message":"Starting scan for file: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:26"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for CyberXplore Developer Challenge (3).pdf:","scanTime":8,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 17:58:26"}
+{"level":"info","message":"File status updated to completed for ID: 688cb2e7c8e13dfb161b52bb","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:26"}
+{"level":"info","message":"Scan completed for file: 688cb2e7c8e13dfb161b52bb","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:26"}
+{"level":"info","message":"Scan job completed for file: 688cb2e7c8e13dfb161b52bb","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:26"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:47"}
+{"level":"info","message":"File saved: 688cb2ffc8e13dfb161b52d0","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:47"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:47"}
+{"level":"info","message":"Scan job enqueued for file: 688cb2ffc8e13dfb161b52d0","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:47"}
+{"level":"info","message":"Processing scan job for file: 688cb2ffc8e13dfb161b52d0","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:47"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb2ffc8e13dfb161b52d0","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:47"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:51"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":34,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 17:58:51"}
+{"level":"info","message":"File status updated to completed for ID: 688cb2ffc8e13dfb161b52d0","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:51"}
+{"level":"info","message":"Scan completed for file: 688cb2ffc8e13dfb161b52d0","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:51"}
+{"level":"info","message":"Scan job completed for file: 688cb2ffc8e13dfb161b52d0","service":"malware-scanner-api","timestamp":"2025-08-01 17:58:51"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:32"}
+{"level":"info","message":"File saved: 688cb368c8e13dfb161b52ff","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:32"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:32"}
+{"level":"info","message":"Scan job enqueued for file: 688cb368c8e13dfb161b52ff","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:32"}
+{"level":"info","message":"Processing scan job for file: 688cb368c8e13dfb161b52ff","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:32"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb368c8e13dfb161b52ff","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:32"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:35"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":18,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 18:00:35"}
+{"level":"info","message":"File status updated to completed for ID: 688cb368c8e13dfb161b52ff","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:35"}
+{"level":"info","message":"Scan completed for file: 688cb368c8e13dfb161b52ff","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:35"}
+{"level":"info","message":"Scan job completed for file: 688cb368c8e13dfb161b52ff","service":"malware-scanner-api","timestamp":"2025-08-01 18:00:35"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:35"}
+{"level":"info","message":"File saved: 688cb3a7c8e13dfb161b5322","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:35"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:35"}
+{"level":"info","message":"Scan job enqueued for file: 688cb3a7c8e13dfb161b5322","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:35"}
+{"level":"info","message":"Processing scan job for file: 688cb3a7c8e13dfb161b5322","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:35"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb3a7c8e13dfb161b5322","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:36"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:39"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":99,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 18:01:39"}
+{"level":"info","message":"File status updated to completed for ID: 688cb3a7c8e13dfb161b5322","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:39"}
+{"level":"info","message":"Scan completed for file: 688cb3a7c8e13dfb161b5322","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:39"}
+{"level":"info","message":"Scan job completed for file: 688cb3a7c8e13dfb161b5322","service":"malware-scanner-api","timestamp":"2025-08-01 18:01:39"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:46"}
+{"level":"info","message":"File saved: 688cb3eec8e13dfb161b5349","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:46"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:46"}
+{"level":"info","message":"Scan job enqueued for file: 688cb3eec8e13dfb161b5349","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:46"}
+{"level":"info","message":"Processing scan job for file: 688cb3eec8e13dfb161b5349","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:46"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb3eec8e13dfb161b5349","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:46"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:48"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":17,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 18:02:48"}
+{"level":"info","message":"File status updated to completed for ID: 688cb3eec8e13dfb161b5349","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:48"}
+{"level":"info","message":"Scan completed for file: 688cb3eec8e13dfb161b5349","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:48"}
+{"level":"info","message":"Scan job completed for file: 688cb3eec8e13dfb161b5349","service":"malware-scanner-api","timestamp":"2025-08-01 18:02:48"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:56"}
+{"level":"info","message":"File saved: 688cb434c8e13dfb161b536e","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:56"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:56"}
+{"level":"info","message":"Scan job enqueued for file: 688cb434c8e13dfb161b536e","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:56"}
+{"level":"info","message":"Processing scan job for file: 688cb434c8e13dfb161b536e","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:56"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb434c8e13dfb161b536e","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:56"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:59"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":147,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 18:03:59"}
+{"level":"info","message":"File status updated to completed for ID: 688cb434c8e13dfb161b536e","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:59"}
+{"level":"info","message":"Scan completed for file: 688cb434c8e13dfb161b536e","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:59"}
+{"level":"info","message":"Scan job completed for file: 688cb434c8e13dfb161b536e","service":"malware-scanner-api","timestamp":"2025-08-01 18:03:59"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:09"}
+{"level":"info","message":"File saved: 688cb47dc8e13dfb161b5391","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:09"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:09"}
+{"level":"info","message":"Scan job enqueued for file: 688cb47dc8e13dfb161b5391","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:09"}
+{"level":"info","message":"Processing scan job for file: 688cb47dc8e13dfb161b5391","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:09"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb47dc8e13dfb161b5391","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:09"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:12"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":16,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 18:05:12"}
+{"level":"info","message":"File status updated to completed for ID: 688cb47dc8e13dfb161b5391","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:12"}
+{"level":"info","message":"Scan completed for file: 688cb47dc8e13dfb161b5391","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:12"}
+{"level":"info","message":"Scan job completed for file: 688cb47dc8e13dfb161b5391","service":"malware-scanner-api","timestamp":"2025-08-01 18:05:12"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:07:58"}
+{"level":"info","message":"File saved: 688cb526c8e13dfb161b53b6","service":"malware-scanner-api","timestamp":"2025-08-01 18:07:58"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:07:58"}
+{"level":"info","message":"Scan job enqueued for file: 688cb526c8e13dfb161b53b6","service":"malware-scanner-api","timestamp":"2025-08-01 18:07:58"}
+{"level":"info","message":"Processing scan job for file: 688cb526c8e13dfb161b53b6","service":"malware-scanner-api","timestamp":"2025-08-01 18:07:59"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb526c8e13dfb161b53b6","service":"malware-scanner-api","timestamp":"2025-08-01 18:07:59"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:02"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":313,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 18:08:02"}
+{"level":"info","message":"File status updated to completed for ID: 688cb526c8e13dfb161b53b6","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:03"}
+{"level":"info","message":"Scan completed for file: 688cb526c8e13dfb161b53b6","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:03"}
+{"level":"info","message":"Scan job completed for file: 688cb526c8e13dfb161b53b6","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:04"}
+{"level":"info","message":"File uploaded successfully: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:52"}
+{"level":"info","message":"File saved: 688cb55cc8e13dfb161b53c9","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:52"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:52"}
+{"level":"info","message":"Scan job enqueued for file: 688cb55cc8e13dfb161b53c9","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:52"}
+{"level":"info","message":"Processing scan job for file: 688cb55cc8e13dfb161b53c9","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:52"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb55cc8e13dfb161b53c9","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:52"}
+{"level":"info","message":"Starting scan for file: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:57"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for CyberXplore Developer Challenge (3).pdf:","scanTime":5,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 18:08:57"}
+{"level":"info","message":"File status updated to completed for ID: 688cb55cc8e13dfb161b53c9","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:57"}
+{"level":"info","message":"Scan completed for file: 688cb55cc8e13dfb161b53c9","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:57"}
+{"level":"info","message":"Scan job completed for file: 688cb55cc8e13dfb161b53c9","service":"malware-scanner-api","timestamp":"2025-08-01 18:08:57"}
+{"level":"info","message":"File uploaded successfully: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:00"}
+{"level":"info","message":"File saved: 688cb564c8e13dfb161b53ce","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:00"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:00"}
+{"level":"info","message":"Scan job enqueued for file: 688cb564c8e13dfb161b53ce","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:00"}
+{"level":"info","message":"Processing scan job for file: 688cb564c8e13dfb161b53ce","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:00"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb564c8e13dfb161b53ce","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:00"}
+{"level":"info","message":"Starting scan for file: f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:04"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for f918cadc-07aa-4af8-93ac-93f6752831b6_phone.pdf:","scanTime":14,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 18:09:04"}
+{"level":"info","message":"File status updated to completed for ID: 688cb564c8e13dfb161b53ce","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:05"}
+{"level":"info","message":"Scan completed for file: 688cb564c8e13dfb161b53ce","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:05"}
+{"level":"info","message":"Scan job completed for file: 688cb564c8e13dfb161b53ce","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:05"}
+{"level":"info","message":"File uploaded successfully: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:24"}
+{"level":"info","message":"File saved: 688cb57cc8e13dfb161b53d3","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:24"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:24"}
+{"level":"info","message":"Scan job enqueued for file: 688cb57cc8e13dfb161b53d3","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:24"}
+{"level":"info","message":"Processing scan job for file: 688cb57cc8e13dfb161b53d3","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:24"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb57cc8e13dfb161b53d3","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:24"}
+{"level":"info","message":"Starting scan for file: CyberXplore Developer Challenge (3).pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:27"}
+{"confidence":0,"isMalicious":false,"level":"info","message":"Scan completed for CyberXplore Developer Challenge (3).pdf:","scanTime":7,"service":"malware-scanner-api","threats":0,"timestamp":"2025-08-01 18:09:27"}
+{"level":"info","message":"File status updated to completed for ID: 688cb57cc8e13dfb161b53d3","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:27"}
+{"level":"info","message":"Scan completed for file: 688cb57cc8e13dfb161b53d3","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:27"}
+{"level":"info","message":"Scan job completed for file: 688cb57cc8e13dfb161b53d3","service":"malware-scanner-api","timestamp":"2025-08-01 18:09:27"}
+{"level":"info","message":"File uploaded successfully: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:13"}
+{"level":"info","message":"File saved: 688cb625c8e13dfb161b53d8","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:13"}
+{"level":"info","message":"Message published to queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:13"}
+{"level":"info","message":"Scan job enqueued for file: 688cb625c8e13dfb161b53d8","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:13"}
+{"level":"info","message":"Processing scan job for file: 688cb625c8e13dfb161b53d8","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:13"}
+{"level":"info","message":"File status updated to scanning for ID: 688cb625c8e13dfb161b53d8","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:13"}
+{"level":"info","message":"Starting scan for file: Rajiv_Suting_Resume.pdf","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:15"}
+{"confidence":100,"isMalicious":true,"level":"info","message":"Scan completed for Rajiv_Suting_Resume.pdf:","scanTime":18,"service":"malware-scanner-api","threats":1,"timestamp":"2025-08-01 18:12:15"}
+{"level":"info","message":"File status updated to completed for ID: 688cb625c8e13dfb161b53d8","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:15"}
+{"level":"info","message":"Scan completed for file: 688cb625c8e13dfb161b53d8","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:15"}
+{"level":"info","message":"Scan job completed for file: 688cb625c8e13dfb161b53d8","service":"malware-scanner-api","timestamp":"2025-08-01 18:12:15"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 18:17:48"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"Connected to MongoDB","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"Connected to RabbitMQ","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"Consumer started for queue: scan-jobs","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"Scan worker started","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"API endpoints available:","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"- Health: http://localhost:3001/api/health","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"- Files: http://localhost:3001/files","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}
+{"level":"info","message":"- Upload: http://localhost:3001/api/files/upload","service":"malware-scanner-api","timestamp":"2025-08-01 18:18:03"}

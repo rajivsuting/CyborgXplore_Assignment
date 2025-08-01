@@ -1,0 +1,5 @@
+This is a test file for the malware scanner.
+It contains some normal text content for testing purposes.
+The scanner should analyze this file and determine it's safe.
+
+File created for testing the upload and scanning functionality. 

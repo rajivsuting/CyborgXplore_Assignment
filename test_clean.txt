@@ -1,0 +1,4 @@
+This is a clean test file.
+It contains normal text content.
+No dangerous keywords here.
+Just regular content for testing. 

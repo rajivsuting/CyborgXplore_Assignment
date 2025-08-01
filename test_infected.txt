@@ -1,0 +1,5 @@
+This is a test file with dangerous content.
+It contains the keyword rm -rf which is dangerous.
+Also has eval keyword for testing.
+And bitcoin keyword as well.
+These should all be detected as malicious. 
